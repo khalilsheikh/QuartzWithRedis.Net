@@ -1,3 +1,5 @@
+*This project was forked and then update the Redis and .net core frameworks *
+
 # QuartzRedisJobStore
 A Quartz Scheduler JobStore using Redis via C#
 
